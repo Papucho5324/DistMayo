@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DistmartDemo</string>
+    <string name="welcome_message">Bienvenidos a Distmar</string>
+    <string name="ingresar_password">Ingresa tu contraseña</string>
+    <string name="ingresar_email">Ingresa tu correo</string>
+    <string name="forgot_password">Olvidaste tu contraseña?</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="crea_tu_cuenta">Crea tu cuenta</string>
+    <string name="confirm_password">Confirma tu contraseña</string>
+    <string name="crear_cuenta">Crear Cuenta</string>
+    <string name="terminos">Acepto los términos y condiciones</string>
+    <string name="nombre_del_titular">Nombre del titular</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="hola">Hola,</string>
+    <string name="titulo_oferta">Título de la oferta</string>
+    <string name="descripcion_oferta">Descripción de la oferta</string>
+    <string name="agregar_oferta">Agregar oferta</string>
+    <string name="promociones">Promociones</string>
+</resources>

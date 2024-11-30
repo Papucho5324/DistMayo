@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "75587343976",
+    "project_id": "distmar-894db",
+    "storage_bucket": "distmar-894db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75587343976:android:e595d427590ffbd6034ddd",
+        "android_client_info": {
+          "package_name": "com.example.distmartdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY7-nJvDtSsh7srYVZ6pc5qTXHPDd_b_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
